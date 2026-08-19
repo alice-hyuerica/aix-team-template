@@ -4,6 +4,7 @@
 
 - 작성일 / Date: 
 - 참여자 / Present: 
+- 결과보고서 / Report chapter: 4장 시스템 설계
 - 최종 반영 / Feeds into: README 아키텍처 / architecture
 
 ---

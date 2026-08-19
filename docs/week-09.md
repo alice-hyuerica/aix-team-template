@@ -4,6 +4,7 @@
 
 - 작성일 / Date: 
 - 참여자 / Present: 
+- 결과보고서 / Report chapter: 5장 구현 과정
 - 최종 반영 / Feeds into: 개발 기준선 / development baseline
 
 ---

@@ -4,6 +4,7 @@
 
 - 작성일 / Date: 
 - 참여자 / Present: 
+- 결과보고서 / Report chapter: 9장 회고
 - 최종 반영 / Feeds into: 제출물 ⑤ / Submission ⑤
 
 ---
@@ -20,13 +21,31 @@
 
 
 
-## **제출물 5종 / Five submissions**
+## **제출물 8종 / Eight submissions**
 
-- [ ] ① 저장소 Repo
-- [ ] ② 배포 URL / 영상 Video
-- [ ] ③ README.md
-- [ ] ④ PROMPTS.md
-- [ ] ⑤ 개인 성찰문 Individual reflection
+- [ ] ① GitHub 저장소 URL / Repository URL
+- [ ] ② 실행 가능한 결과물 (코드 + 실행 방법) / Runnable deliverable
+- [ ] ③ 시연 영상 3분 이내 / Demo video (max 3 min)
+- [ ] ④ README.md
+- [ ] ⑤ PROMPTS.md
+- [ ] ⑥ 결과보고서 / Final report
+- [ ] ⑦ 발표자료 / Presentation slides
+- [ ] ⑧ 개인 성찰문 (개별 제출) / Individual reflection
+
+## 최종 동료평가 / Final Peer Evaluation
+
+> **성적 10% 반영.** 점수만 적고 근거가 없는 평가는 반영되지 않습니다.
+> *Counts for 10% of your grade. Ratings without evidence are not counted.*
+
+| 평가 대상<br>Member | 담당 영역<br>Area | 기여 점수 (0~20)<br>Score | 근거 — 이슈 번호·구체 사례<br>Evidence |
+|---|---|---|---|
+| 본인 Myself |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+- 가장 도움이 되었던 협업 방식 / Most helpful team practice:
+- 다음에 바꾸고 싶은 것 / What you would change next time:
 
 ---
 

@@ -4,15 +4,19 @@
 
 - 작성일 / Date: 
 - 참여자 / Present: 
+- 결과보고서 / Report chapter: 7장 검증과 실행 환경
 - 최종 반영 / Feeds into: 제출물 ② ③ / Submissions ② ③
 
 ---
 
-## 배포 방식과 이유 / Method and why
+## 실행 방식 / How it runs
+
+로컬 실행 / 배포 중 무엇인가, 그 이유는?
+*Local run or deployed? Why?*
 
 
 
-## **공개 URL / Public URL**
+## 공개 URL (선택·가점) / Public URL (optional, bonus)
 
 
 

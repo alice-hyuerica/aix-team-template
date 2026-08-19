@@ -4,6 +4,7 @@
 
 - 작성일 / Date: 
 - 참여자 / Present: 
+- 결과보고서 / Report chapter: 6장 AI 활용과 판단
 - 최종 반영 / Feeds into: PROMPTS.md 첫 항목
 
 ---

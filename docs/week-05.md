@@ -4,6 +4,7 @@
 
 - 작성일 / Date: 
 - 참여자 / Present: 
+- 결과보고서 / Report chapter: 1·2·3장 (문제정의·사용자확인·요구사항)
 - 최종 반영 / Feeds into: README 문제정의·사용자 / problem & users
 
 ---
@@ -46,6 +47,13 @@
 ## 외부 데이터 소스 / External data source
 
 
+
+## 실행 가능성 확인 / Feasibility check
+
+- 특수 장비·유료 API·실제 개인정보가 필요한가? 필요하다면 대안은?
+  *Does it need special hardware, paid APIs or real personal data? If so, what is the alternative?*
+- 15주차에 발표장에서 시연할 수 있는 형태인가?
+  *Can it be demonstrated live in Week 15?*
 
 ## 성찰 / Reflection — 무엇을 포기했고 왜
 

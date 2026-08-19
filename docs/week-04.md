@@ -4,6 +4,7 @@
 
 - 작성일 / Date: 
 - 참여자 / Present: 
+- 결과보고서 / Report chapter: 1장 문제 정의와 사용자
 - 최종 반영 / Feeds into: 기획서 재료 / material for the plan
 
 ---

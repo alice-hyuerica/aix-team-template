@@ -4,6 +4,7 @@
 
 - 작성일 / Date: 
 - 참여자 / Present: 
+- 결과보고서 / Report chapter: 7장 검증과 실행 환경
 - 최종 반영 / Feeds into: tests/ 폴더
 
 ---

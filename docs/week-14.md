@@ -4,6 +4,7 @@
 
 - 작성일 / Date: 
 - 참여자 / Present: 
+- 결과보고서 / Report chapter: 8장 결과와 한계
 - 최종 반영 / Feeds into: 최종 평가 / final assessment
 
 ---
@@ -24,6 +25,14 @@
 - [ ] 화면공유 Screen share
 
 ## 답하지 못한 질문 / Questions you could not answer
+
+## 결과보고서 진행 상황 / Report progress
+
+- [ ] 1~3장 (문제정의·사용자확인·요구사항)
+- [ ] 4~5장 (설계·구현)
+- [ ] 6~7장 (AI 활용·검증)
+- [ ] 8~9장 (결과와 한계·회고)
+- 담당자 / Who writes what:
 
 
 

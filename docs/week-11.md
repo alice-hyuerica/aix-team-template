@@ -4,6 +4,7 @@
 
 - 작성일 / Date: 
 - 참여자 / Present: 
+- 결과보고서 / Report chapter: 8장 결과와 한계
 - 최종 반영 / Feeds into: 협업 평가 근거 / collaboration evidence
 
 ---
