@@ -39,3 +39,11 @@
 
 > 수업 종료 시 커밋하세요 / Commit this at the end of class
 > `git add docs/week-12.md && git commit -m "docs: 12주차 활동지 작성"`
+
+## 알고도 고치지 못한 것 / Known and unfixed  → `ETHICS.md` 5절
+
+| 문제 | 왜 못 고쳤나 | 사용자에게 알릴 것인가 |
+|---|---|---|
+|  |  |  |
+
+> 감추지 않는 것이 평가 대상입니다. 여기 적힌 내용은 감점 사유가 아닙니다.

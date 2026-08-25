@@ -19,6 +19,11 @@
 
 ## Try — 다음에 시도할 행동 1가지 / one action to try
 
+## 윤리 노트 되읽기 / Re-reading your ethics notes
+
+2~7주차에 쓴 윤리 노트 6개를 다시 읽어보십시오. 지금 생각이 달라진 것이 있습니까? 있다면 무엇 때문입니까?
+*Re-read the six ethics notes you wrote in Weeks 2–7. Has your view changed? If so, why?*
+
 
 
 ## **제출물 8종 / Eight submissions**

@@ -43,3 +43,9 @@
 
 > 수업 종료 시 커밋하세요 / Commit this at the end of class
 > `git add docs/week-10.md && git commit -m "docs: 10주차 활동지 작성"`
+
+## 검증하지 않은 것 / Not verified  → `ETHICS.md` 4절
+
+| 무엇을 검증하지 않았나 | 왜 | 남는 위험 |
+|---|---|---|
+|  |  |  |
