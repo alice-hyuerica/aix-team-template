@@ -66,25 +66,5 @@
 
 ---
 
----
-
-## 윤리 노트 / Ethics Note  *(개인 작성 / individual)*
-
-- 작성자 / Author:
-- **150~300자.** 정답은 없습니다. **근거를 쓰는 것**이 핵심입니다.
-  *150–300 characters. There is no right answer — what matters is your reasoning.*
-
-### 사례 / Case
-
-> 범위를 줄이는 회의에서 Won't 목록에 세 가지가 올라갔다. ① 다국어 지원 ② 화면 확대·고대비 모드 ③ 관리자 통계 화면. 팀은 "셋 다 핵심이 아니니까"라고 판단했다.
->
-> *Three items went into the Won't list: multilingual support, zoom / high-contrast mode, and an admin statistics screen. The team said none of them is core.*
-
-**질문 1. 세 항목이 밀려나면 각각 누가 못 쓰게 되는가? / Who is excluded by each of the three?**
-
-**질문 2. 그럼에도 포기한다면, 무엇을 함께 기록해야 하는가? / If you still drop them, what must you record?**
-
-### 우리 팀 산출물에 반영할 것 / What we will change
-
 > 수업 종료 시 커밋하세요 / Commit this at the end of class
 > `git add docs/week-05.md && git commit -m "docs: 5주차 활동지 작성"`

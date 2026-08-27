@@ -19,6 +19,11 @@
 
 ## Try — 다음에 시도할 행동 1가지 / one action to try
 
+## 윤리 노트 되읽기 / Re-reading your ethics notes
+
+> 2~7주차에 LMS로 제출한 윤리 노트 6편을 다시 읽고, **LMS 15주차 과제란에 개인으로 제출**하십시오.
+> *Re-read the six ethics notes you submitted via the LMS in Weeks 2–7 and submit your reflection individually on the LMS.*
+
 
 
 ## **제출물 8종 / Eight submissions**

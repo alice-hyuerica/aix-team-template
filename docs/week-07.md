@@ -48,25 +48,5 @@ docs/architecture.png
 
 ---
 
----
-
-## 윤리 노트 / Ethics Note  *(개인 작성 / individual)*
-
-- 작성자 / Author:
-- **150~300자.** 정답은 없습니다. **근거를 쓰는 것**이 핵심입니다.
-  *150–300 characters. There is no right answer — what matters is your reasoning.*
-
-### 사례 / Case
-
-> 데이터 구조를 설계하는데, 학번을 저장하면 여러 기능이 편해진다. 지금 당장 꼭 필요하지는 않지만 "나중에 쓸 수도 있으니" 필드를 만들어 두려 한다.
->
-> *Storing student IDs would make several features easier. It is not strictly needed now, but the team wants the field "just in case".*
-
-**질문 1. 저장할 것인가? / Will you store it?**
-
-**질문 2. 판단의 근거는 무엇인가? / What is your reasoning?**
-
-### 우리 팀 산출물에 반영할 것 / What we will change
-
 > 수업 종료 시 커밋하세요 / Commit this at the end of class
 > `git add docs/week-07.md && git commit -m "docs: 7주차 활동지 작성"`
