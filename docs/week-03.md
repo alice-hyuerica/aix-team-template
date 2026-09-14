@@ -4,15 +4,6 @@
 
 - 작성일 / Date: 
 - 참여자 / Present: 
-- 최종 반영 / Feeds into: 4주차 후보 확정 · Acceptance Criteria · `ETHICS.md` 1절
-
-**지난주 이후 바뀐 것 / What changed since last week**
-
-> 매주 한 줄. 생각이 바뀐 지점, 틀린 것으로 드러난 가정, 접은 방향을 적습니다.
-> **"없음"도 답입니다.** 다만 3주 연속 "없음"이면 아직 아무것도 확인하지 않은 것입니다.
-
-
-- 
 
 ---
 
