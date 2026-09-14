@@ -1,41 +1,99 @@
 # 3주차 활동지 / Week 3 Worksheet
 
-**라이선스 조사 / License survey**
+**도메인 문제 발굴 / Domain problem discovery**
 
 - 작성일 / Date: 
 - 참여자 / Present: 
-- 최종 반영 / Feeds into: LICENSE + README
+- 최종 반영 / Feeds into: 4주차 후보 확정 · Acceptance Criteria · `ETHICS.md` 1절
+
+> 이번 주는 **후보를 좁히지 않습니다.** 3개를 살려둔 채로 끝냅니다.
+> 하나를 고르는 것은 인터뷰 결과를 들고 오는 4주차에 합니다.
 
 ---
 
-## 라이선스 조사표 / License table
+## 1. 문제 후보 3개 / Three problem candidates
 
-| 라이브러리 Library | 버전 | 라이선스 | 주요 의무 Obligation | 충돌? Conflict |
-|---|---|---|---|---|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+> 네 칸이 다 채워지지 않으면 아직 문제가 아니라 막연한 아이디어입니다.
+> 사용자는 "학생"이 아니라 "복수전공 2학년"까지 좁혀 쓰세요.
 
-## 공개/비공개 결정과 근거 / Public or private, and why
+| 네 요소 Four elements | 후보 A | 후보 B | 후보 C |
+|---|---|---|---|
+| 사용자 Who |  |  |  |
+| 상황 When/Where |  |  |  |
+| 페인포인트 What — 무엇이 **얼마나** |  |  |  |
+| 성공 기준 Done |  |  |  |
 
-
-
-## 우리 팀 LICENSE / Our license
-
-
+> 성공 기준은 지금은 말로 써도 됩니다. "몇 초 이내" 같은 정확한 문장으로 다듬는 것은
+> 4주차에 EARS로 합니다. / Plain words are fine for now — we formalise these next week.
 
 ---
 
-## 이해관계자 정리 / Stakeholders  → `ETHICS.md` 1절에 옮겨 적기
+## 2. 사용자 말고 또 누가 / Who else is affected
 
-| 구분 | 누구인가 | 어떤 영향을 받는가 |
-|---|---|---|
-| 직접 사용자 Direct |  |  |
-| 간접 영향자 Indirect |  |  |
-| 배제될 수 있는 사람 Excluded |  |  |
+> 후보 3개 각각에 대해 한 줄씩. 역할이 아니라 사람으로 씁니다.
+> "교직원"(X) → "학사 공지를 올리는 학과 조교"(O)
+> "없다"고 적어도 됩니다. 대신 왜 없는지 쓰세요. 억지로 채우지 마세요.
+>
+> 이건 **인터뷰 대상을 정하기 위한 것**입니다. 지금 `ETHICS.md`에 옮기지 마세요.
+> 주제가 확정되는 4주차에, 살아남은 후보 하나만 `ETHICS.md` 1절에 올립니다.
 
+| 질문 | 후보 A | 후보 B | 후보 C |
+|---|---|---|---|
+| 이 안에 **누구의 정보**가 들어가는가<br>그 사람이 우리 사용자와 같은 사람인가 |  |  |  |
+| 쓰고 싶어도 **못 쓰는 사람**은 누구인가 |  |  |  |
+
+---
+
+## 3. 확인할 가정과 인터뷰 계획 / Assumptions to verify
+
+> 지금 사실이라 믿고 있지만 아직 확인하지 않은 것을 적고, 누구에게 물을지 정합니다.
+> 팀원 외 3명 이상, 2절에 적은 당사자 포함.
+> 인터뷰 결과는 4주차에 들고 옵니다 / Bring the results to Week 4
+
+| # | 후보 | 우리가 사실이라 믿는 것 | 누구에게 물을 것인가 | 담당 | 기한 |
+|---|---|---|---|---|---|
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+
+**물어볼 질문 3개 / Our three questions** — 과거형으로. "쓰시겠어요?"(X) → "최근에 그런 적 있으셨어요?"(O)
+
+1. 
+2. 
+3. 
+
+---
+
+## 4. AI 사용 기록 / AI use log  → `PROMPTS.md`
+
+> **전부 남기지 않습니다.** AI가 만든 것이 **산출물에 실제로 들어갔을 때만** 남깁니다.
+> Log only what actually made it into your work — not every question you asked.
+
+| 상황 | 기록? |
+|---|---|
+| "EARS가 뭐야?" 같은 개념 질문, 번역, 오타 수정 | 안 함 |
+| AI가 뽑아준 인터뷰 질문을 3절에 옮겨 적음 | **함** |
+| AI에게 후보 아이디어를 받아 1절에 반영함 | **함** |
+| 받았지만 안 쓰기로 한 것 중, 판단이 오래 걸린 것 | **함** |
+
+**주당 최대 3건.** 3건을 넘으면 가장 중요한 3건만 고릅니다. 억지로 채우지 마세요.
+나머지는 한 줄로 / Summarise the rest in one line: 
+
+`PROMPTS.md`에 남길 것 — 건당 네 줄이면 충분합니다
+
+- 무엇을 하려고 썼는가
+- 넣은 프롬프트 **원문 그대로** — 요약하지 않습니다
+- 나온 것 중 **쓴 것 / 버린 것**
+- **버렸다면 왜 버렸는가** — 이 한 줄을 봅니다
+
+> 주의 / Caution
+> AI가 만들어준 문제 후보에는 **사용자가 없습니다.** 그럴듯한 문장만 있습니다.
+> 그대로 1절에 옮기면 '가짜 사용자형'이 됩니다. 사용자는 여러분이 찾아야 합니다.
+
+- [ ] 해당 건을 `PROMPTS.md`에 기록했다 / Logged in `PROMPTS.md`
+- [ ] 산출물에 들어간 AI 결과물이 없다 / Nothing from AI made it into our work
+
+---
 
 > 수업 종료 시 커밋하세요 / Commit this at the end of class
-> `git add docs/week-03.md && git commit -m "docs: 3주차 활동지 작성"`
+> `git add docs/week-03.md PROMPTS.md && git commit -m "docs: 3주차 활동지 작성"`
