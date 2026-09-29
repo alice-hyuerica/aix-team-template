@@ -66,9 +66,15 @@ graph LR
 
 
 
-### Should / Could
+### Should (없을 경우에는 작성하지 마세요)
+ 
+ - 시나리오
 
 
+
+### Could (없을 경우에는 작성하지 마세요)
+
+ - 시나리오
 
 ### **Won't — 이번 학기에 안 함 / not this semester**
 
